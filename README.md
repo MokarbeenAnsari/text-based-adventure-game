@@ -28,7 +28,7 @@ python text_based_adventure_game.py
 
 ## Author
 
-- Your Name - Initial work
+- Mokarbeen Ansari
 
 ## License
 
